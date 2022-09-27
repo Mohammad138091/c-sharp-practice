@@ -1,0 +1,13 @@
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.exe
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.deps.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.runtimeconfig.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.runtimeconfig.dev.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.dll
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.pdb
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.csprojAssemblyReference.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.AssemblyInfoInputs.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.AssemblyInfo.cs
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.csproj.CoreCompileInputs.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.dll
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.pdb
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.genruntimeconfig.cache

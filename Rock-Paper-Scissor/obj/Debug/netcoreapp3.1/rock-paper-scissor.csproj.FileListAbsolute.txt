@@ -1,0 +1,13 @@
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\bin\Debug\netcoreapp3.1\rock-paper-scissor.exe
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\bin\Debug\netcoreapp3.1\rock-paper-scissor.deps.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\bin\Debug\netcoreapp3.1\rock-paper-scissor.runtimeconfig.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\bin\Debug\netcoreapp3.1\rock-paper-scissor.runtimeconfig.dev.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\bin\Debug\netcoreapp3.1\rock-paper-scissor.dll
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\bin\Debug\netcoreapp3.1\rock-paper-scissor.pdb
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.csprojAssemblyReference.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.AssemblyInfoInputs.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.AssemblyInfo.cs
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.csproj.CoreCompileInputs.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.dll
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.pdb
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\rock-paper-scissor\obj\Debug\netcoreapp3.1\rock-paper-scissor.genruntimeconfig.cache

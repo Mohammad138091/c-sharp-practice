@@ -1,0 +1,13 @@
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\bin\Debug\netcoreapp3.1\bmi-test-cmd.exe
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\bin\Debug\netcoreapp3.1\bmi-test-cmd.deps.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\bin\Debug\netcoreapp3.1\bmi-test-cmd.runtimeconfig.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\bin\Debug\netcoreapp3.1\bmi-test-cmd.runtimeconfig.dev.json
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\bin\Debug\netcoreapp3.1\bmi-test-cmd.dll
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\bin\Debug\netcoreapp3.1\bmi-test-cmd.pdb
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.csprojAssemblyReference.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.AssemblyInfoInputs.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.AssemblyInfo.cs
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.csproj.CoreCompileInputs.cache
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.dll
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.pdb
+C:\Users\IT CITY\OneDrive\Desktop\c#-practice2\bmi-test-cmd\obj\Debug\netcoreapp3.1\bmi-test-cmd.genruntimeconfig.cache
